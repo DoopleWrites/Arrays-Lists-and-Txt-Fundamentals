@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\ListFundamentals\ListFundamentals\bin\Debug\ListFundamentals.exe.config
+C:\Users\Admin\source\repos\ListFundamentals\ListFundamentals\bin\Debug\ListFundamentals.exe
+C:\Users\Admin\source\repos\ListFundamentals\ListFundamentals\bin\Debug\ListFundamentals.pdb
+C:\Users\Admin\source\repos\ListFundamentals\ListFundamentals\obj\Debug\ListFundamentals.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ListFundamentals\ListFundamentals\obj\Debug\ListFundamentals.Properties.Resources.resources
+C:\Users\Admin\source\repos\ListFundamentals\ListFundamentals\obj\Debug\ListFundamentals.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ListFundamentals\ListFundamentals\obj\Debug\ListFundamentals.exe
+C:\Users\Admin\source\repos\ListFundamentals\ListFundamentals\obj\Debug\ListFundamentals.pdb
+C:\Users\Admin\source\repos\ListFundamentals\ListFundamentals\obj\Debug\ListFundamentals.Form1.resources
